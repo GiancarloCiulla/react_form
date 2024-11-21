@@ -2,7 +2,7 @@ import React, { useContext } from "react";
 import { FormContext } from "../../../context/FormContext";
 
 const Card = () => {
-  const { userData } = useContext(FormContext); // Obtenemos los datos del usuario
+  const { userData } = useContext(FormContext); 
 
   return (
     <div style={{

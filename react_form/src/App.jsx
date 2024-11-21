@@ -17,38 +17,3 @@ const App = () => {
 };
 
 export default App;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-// import './App.css';
-// import Formulario from './components/Head/Formulario'
-
-// function App() {
-//   return (
-//     <div >
-      
-//             <Formulario />
-        
-//     </div>
-//   )
-// }
-// export default App
